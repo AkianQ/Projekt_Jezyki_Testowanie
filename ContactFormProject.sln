@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFormProject", "ContactFormProject\ContactFormProject.csproj", "{8A8D57E2-1234-4F15-A9C3-ABCDEF123456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFormProject.Tests", "ContactFormProject.Tests\ContactFormProject.Tests.csproj", "{8FA7B612-5946-44B4-A8E5-FCC35083483B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8D57E2-1234-4F15-A9C3-ABCDEF123456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8D57E2-1234-4F15-A9C3-ABCDEF123456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8D57E2-1234-4F15-A9C3-ABCDEF123456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8D57E2-1234-4F15-A9C3-ABCDEF123456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA7B612-5946-44B4-A8E5-FCC35083483B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA7B612-5946-44B4-A8E5-FCC35083483B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA7B612-5946-44B4-A8E5-FCC35083483B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA7B612-5946-44B4-A8E5-FCC35083483B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7BC5354-B2D8-48F2-B4F9-952FDC4C7765}
+	EndGlobalSection
+EndGlobal
